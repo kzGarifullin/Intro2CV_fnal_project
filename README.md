@@ -1,4 +1,4 @@
-# Intro2CV_fnal_project
+# Intro2CV_final_project
 our final project for Intro to CV course 2023 at Skoltech
 
 presentation:
